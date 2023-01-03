@@ -88,6 +88,10 @@ a {
   opacity: 3;
 }
 
+.blur {
+  filter: blur(8px);
+}
+
 .nav-items {
   display: block;
   position: absolute;
@@ -95,12 +99,12 @@ a {
   top: 0;
   left: -100%;
   line-height: 60px;
-  height: 100vh;
+  height: 400rem;
   font-size: 32px;
   text-align: left;
   font-weight: 600;
-  opacity: 0.95;
-  padding-top: 3.5rem;
+  opacity: 0.9;
+  padding-top: 4rem;
   list-style: none;
 }
 
