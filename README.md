@@ -190,7 +190,7 @@ This project will not have any additional features.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AbdelazizSoliman/Menu-mobile/issues).
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -244,4 +244,3 @@ NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/m
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
