@@ -1184,3 +1184,37 @@ textarea {
 }
 
 /* Style for 1024px screen */
+@media screen and (min-width: 1024px) {
+  .card {
+    gap: 1.5rem;
+  }
+
+  .card-frame li {
+    margin: 10px;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .card-block {
+    padding-top: 40px;
+  }
+
+  .nav-link a {
+    margin: 0 0.5rem;
+  }
+
+  .form-child {
+    margin: 0 20rem;
+  }
+
+  .card-tags li {
+    padding: 4px 12px;
+    font-size: 12px;
+  }
+
+  .btn {
+    font-size: 17px;
+    padding: 14px;
+  }
+}
+
