@@ -102,6 +102,7 @@ a {
 /* .menu-icon.active .blur {
   filter: blur(8px);
 } */
+
 /* .blur {
   filter: blur(8px);
 } */
@@ -465,7 +466,8 @@ textarea {
   padding-top: 1.5rem;
   border-top: 1px solid #ebecf0;
   margin-bottom: 0;
-  width: -webkit-fill-available;
+
+  /* width: -webkit-fill-available; */
 }
 
 .feature .popButtoms .secondchild {
@@ -503,7 +505,8 @@ textarea {
 
 .feature .featureList li {
   font-size: 15px;
-  margin: 1rem inherit;
+
+  /* margin: 1rem inherit; */
 }
 
 .feature .featureList .no-count {
@@ -527,10 +530,11 @@ textarea {
 .popButtoms a:hover {
   color: var(--clr-para);
 }
+
 /* Style for
  320px screens  */
 
- @media screen and (min-width: 320px) {
+@media screen and (min-width: 320px) {
   .form-group {
     background-image: url(img/contact-form-shapes-mobile.svg);
     background-repeat: no-repeat;
@@ -540,7 +544,8 @@ textarea {
 
   .dev {
     background-image: url(img/header-shapesmobile@2x.svg);
-    background-position: 0% auto;
+
+    /* background-position: 0% auto; */
     background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
@@ -602,13 +607,15 @@ textarea {
   .form-form {
     background-image: url(img/contact-form-shapes-mobile.svg);
     background-repeat: no-repeat;
-    background-position: 0% auto;
+
+    /* background-position: 0% auto; */
     background-size: cover;
   }
 
   .dev {
     background-image: url(img/header-shapesmobile@2x.svg);
-    background-position: 0% auto;
+
+    /* background-position: 0% auto; */
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -647,13 +654,15 @@ textarea {
   .form-form {
     background-image: url(img/contact-form-shapes-mobile.svg);
     background-repeat: no-repeat;
-    background-position: auto;
+
+    /* background-position: auto; */
     background-size: 100% auto;
   }
 
   .dev {
     background-image: url(img/header-shapesmobile@2x.svg);
-    background-position: auto;
+
+    /* background-position: auto; */
     background-size: 100% auto;
     background-repeat: no-repeat;
     width: 100%;
@@ -1035,7 +1044,8 @@ textarea {
 
   .feature .featureList li {
     font-size: 15px;
-    margin: 0 inherit;
+
+    /* margin: 0 inherit; */
     margin-top: 0;
   }
 
@@ -1217,4 +1227,3 @@ textarea {
     padding: 14px;
   }
 }
-
