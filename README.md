@@ -1,4 +1,4 @@
-# details popup window
+# Form validation
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
@@ -16,10 +16,10 @@
 -- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [details popup window] <a name="details popup window"></a>
+# 📖 [Form validation] <a name="Form validation"></a>
 
 
-**[details popup window]** is a HTML, CSS and JavaScript project that teaches how to Use JavaScript to manipulate DOM elements, Use JavaScript events,  parse a Figma design to create a UI, Use objects to store and access data, use Flexbox to place elements in the page, use media query to build a fully responsive personal portfolio site.
+**[Form validation]** is a HTML, CSS and JavaScript project that teaches how to Use JavaScript to manipulate DOM elements, Use JavaScript events,  parse a Figma design to create a UI, Use objects to store and access data, use Flexbox to place elements in the page, use media query to build a fully responsive personal portfolio site, use client-side validation to catch and throw errors in the UI..
 
 ## 🛠 Built With  <a name="built-with"></a>
 
