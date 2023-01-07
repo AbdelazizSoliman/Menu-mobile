@@ -531,6 +531,18 @@ textarea {
   color: var(--clr-para);
 }
 
+.error {
+  position: absolute;
+  left: 10rem;
+  bottom: 0.5rem;
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--clr-white);
+  width: 20em;
+  border-radius: 4px;
+}
+
 /* Style for
  320px screens  */
 
