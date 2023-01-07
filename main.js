@@ -181,13 +181,15 @@ const setSuccess = (message) => {
   errorDisplay.innerText = message;
 };
 
-const validateInputs = () => {
+const validateInputs = (e) => {
   const emailValue = email.value.trim();
 
   if (emailValue === '') {
     setError('Email is required');
+    e.preventDefault();
   } else if (emailValue.toLowerCase() !== emailValue) {
     setError('email should be in lowercase. Please resubmit again');
+    e.preventDefault();
   } else {
     setSuccess('Data sent Successfully');
   }
